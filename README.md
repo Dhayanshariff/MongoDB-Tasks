@@ -1,2 +1,2 @@
 # MongoDB-Tasks
-Consists of MongoDB assignment tasks
+Consists of 2 assignment tasks to practice Mongodb operations with python (Pymongo)
